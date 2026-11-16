@@ -34,14 +34,9 @@ farming flags from everyone else's.
 
 ### `└─$ cat ./arsenal.txt`
 
-```text
-  recon & osint          ▓▓▓▓▓▓▓▓▓░   amass · subfinder · nmap · spiderfoot · maltego
-  web & api exploitation ▓▓▓▓▓▓▓▓░░   burp suite · ffuf · sqlmap · nuclei
-  active directory       ▓▓▓▓▓▓▓░░░   bloodhound · impacket · netexec · kerbrute
-  reversing & mobile     ▓▓▓▓▓▓░░░░   ghidra · radare2 · jadx · frida
-  attack-defense ctf     ▓▓▓▓▓▓▓▓░░   pwntools · tcpdump · custom tooling
-  scripting & automation ▓▓▓▓▓▓▓▓▓░   python · bash · docker
-```
+<p align="center">
+  <img src="./assets/arsenal.svg" alt="arsenal — recon, web, active directory, reversing, ctf, scripting" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff9c">
@@ -82,16 +77,7 @@ farming flags from everyone else's.
 ### `└─$ ./stats --theme=dark`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YusifAlizadeh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&ring_color=ff2a4d">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=YusifAlizadeh&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=ff2a4d&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9">
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusifAlizadeh&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9">
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YusifAlizadeh&bg_color=0d1117&color=c9d1d9&title_color=00ff9c&line=00ff9c&point=ff2a4d&area=true&area_color=00ff9c&hide_border=true">
+  <img src="./assets/stats.svg" alt="GitHub statistics" width="100%">
 </p>
 
 ---

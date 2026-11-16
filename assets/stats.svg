@@ -4,38 +4,38 @@
 <defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
 <rect x="0" y="0" width="4" height="2" fill="#000000" opacity="0.10"/></pattern></defs>
 <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
-<rect x="0" y="0" width="900" height="300" rx="10" fill="#0a0c10"/>
-<text x="28" y="40" font-size="15" fill="#00ff9c">┌──(root㉿alizadah)-[~]</text>
-<text x="28" y="64" font-size="15"><tspan fill="#00ff9c">└─$ </tspan><tspan fill="#c9d1d9">./stats --theme=dark</tspan></text>
-<text x="44" y="106" font-size="13" fill="#6e7681">contributions (1y) ......</text>
-<text x="300" y="106" font-size="13" fill="#00ff9c" text-anchor="end">670</text>
-<text x="44" y="134" font-size="13" fill="#6e7681">commits (1y) ............</text>
-<text x="300" y="134" font-size="13" fill="#c9d1d9" text-anchor="end">655</text>
-<text x="44" y="162" font-size="13" fill="#6e7681">current streak ..........</text>
-<text x="300" y="162" font-size="13" fill="#ff2a4d" text-anchor="end">1 day</text>
-<text x="44" y="190" font-size="13" fill="#6e7681">longest streak ..........</text>
-<text x="300" y="190" font-size="13" fill="#c9d1d9" text-anchor="end">3 days</text>
-<text x="44" y="218" font-size="13" fill="#6e7681">public repos ............</text>
-<text x="300" y="218" font-size="13" fill="#c9d1d9" text-anchor="end">20</text>
-<text x="44" y="246" font-size="13" fill="#6e7681">stars earned ............</text>
-<text x="300" y="246" font-size="13" fill="#ffb000" text-anchor="end">2</text>
-<text x="470" y="106" font-size="13" fill="#6e7681">top languages</text>
-<text x="470" y="138" font-size="13" fill="#c9d1d9">Python</text>
-<rect x="620" y="127" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="637" y="127" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="654" y="127" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="671" y="127" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="688" y="127" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="705" y="127" width="14" height="12" rx="2" fill="#1b2129"/><rect x="722" y="127" width="14" height="12" rx="2" fill="#1b2129"/><rect x="739" y="127" width="14" height="12" rx="2" fill="#1b2129"/><rect x="756" y="127" width="14" height="12" rx="2" fill="#1b2129"/><rect x="773" y="127" width="14" height="12" rx="2" fill="#1b2129"/>
-<text x="872" y="138" font-size="12" fill="#6e7681" text-anchor="end">49.8%</text>
-<text x="470" y="166" font-size="13" fill="#c9d1d9">TypeScript</text>
-<rect x="620" y="155" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="637" y="155" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="654" y="155" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="671" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="688" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="705" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="722" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="739" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="756" y="155" width="14" height="12" rx="2" fill="#1b2129"/><rect x="773" y="155" width="14" height="12" rx="2" fill="#1b2129"/>
-<text x="872" y="166" font-size="12" fill="#6e7681" text-anchor="end">26.5%</text>
-<text x="470" y="194" font-size="13" fill="#c9d1d9">CSS</text>
-<rect x="620" y="183" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="637" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="654" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="671" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="688" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="705" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="722" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="739" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="756" y="183" width="14" height="12" rx="2" fill="#1b2129"/><rect x="773" y="183" width="14" height="12" rx="2" fill="#1b2129"/>
-<text x="872" y="194" font-size="12" fill="#6e7681" text-anchor="end">9.0%</text>
-<text x="470" y="222" font-size="13" fill="#c9d1d9">JavaScript</text>
-<rect x="620" y="211" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="637" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="654" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="671" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="688" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="705" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="722" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="739" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="756" y="211" width="14" height="12" rx="2" fill="#1b2129"/><rect x="773" y="211" width="14" height="12" rx="2" fill="#1b2129"/>
-<text x="872" y="222" font-size="12" fill="#6e7681" text-anchor="end">8.1%</text>
-<text x="470" y="250" font-size="13" fill="#c9d1d9">Shell</text>
-<rect x="620" y="239" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="637" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="654" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="671" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="688" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="705" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="722" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="739" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="756" y="239" width="14" height="12" rx="2" fill="#1b2129"/><rect x="773" y="239" width="14" height="12" rx="2" fill="#1b2129"/>
-<text x="872" y="250" font-size="12" fill="#6e7681" text-anchor="end">4.7%</text>
-<text x="44" y="282" font-size="11" fill="#6e7681">last sync: 2026-11-16 · generated from the GitHub API</text>
+<rect x="0" y="0" width="900" height="300" rx="10" fill="#0a0608"/>
+<text x="28" y="40" font-size="15" fill="#d62839">┌──(root㉿alizadah)-[~]</text>
+<text x="28" y="64" font-size="15"><tspan fill="#d62839">└─$ </tspan><tspan fill="#d5c8ca">./stats --theme=dark</tspan></text>
+<text x="44" y="106" font-size="13" fill="#80686c">contributions (1y) ......</text>
+<text x="300" y="106" font-size="13" fill="#d62839" text-anchor="end">672</text>
+<text x="44" y="134" font-size="13" fill="#80686c">commits (1y) ............</text>
+<text x="300" y="134" font-size="13" fill="#d5c8ca" text-anchor="end">657</text>
+<text x="44" y="162" font-size="13" fill="#80686c">current streak ..........</text>
+<text x="300" y="162" font-size="13" fill="#ff4553" text-anchor="end">1 day</text>
+<text x="44" y="190" font-size="13" fill="#80686c">longest streak ..........</text>
+<text x="300" y="190" font-size="13" fill="#d5c8ca" text-anchor="end">3 days</text>
+<text x="44" y="218" font-size="13" fill="#80686c">public repos ............</text>
+<text x="300" y="218" font-size="13" fill="#d5c8ca" text-anchor="end">20</text>
+<text x="44" y="246" font-size="13" fill="#80686c">stars earned ............</text>
+<text x="300" y="246" font-size="13" fill="#e09f3e" text-anchor="end">2</text>
+<text x="470" y="106" font-size="13" fill="#80686c">top languages</text>
+<text x="470" y="138" font-size="13" fill="#d5c8ca">Python</text>
+<rect x="620" y="127" width="14" height="12" rx="2" fill="#d62839"/><rect x="637" y="127" width="14" height="12" rx="2" fill="#d62839"/><rect x="654" y="127" width="14" height="12" rx="2" fill="#d62839"/><rect x="671" y="127" width="14" height="12" rx="2" fill="#d62839"/><rect x="688" y="127" width="14" height="12" rx="2" fill="#d62839"/><rect x="705" y="127" width="14" height="12" rx="2" fill="#2a1418"/><rect x="722" y="127" width="14" height="12" rx="2" fill="#2a1418"/><rect x="739" y="127" width="14" height="12" rx="2" fill="#2a1418"/><rect x="756" y="127" width="14" height="12" rx="2" fill="#2a1418"/><rect x="773" y="127" width="14" height="12" rx="2" fill="#2a1418"/>
+<text x="872" y="138" font-size="12" fill="#80686c" text-anchor="end">50.0%</text>
+<text x="470" y="166" font-size="13" fill="#d5c8ca">TypeScript</text>
+<rect x="620" y="155" width="14" height="12" rx="2" fill="#d62839"/><rect x="637" y="155" width="14" height="12" rx="2" fill="#d62839"/><rect x="654" y="155" width="14" height="12" rx="2" fill="#d62839"/><rect x="671" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="688" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="705" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="722" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="739" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="756" y="155" width="14" height="12" rx="2" fill="#2a1418"/><rect x="773" y="155" width="14" height="12" rx="2" fill="#2a1418"/>
+<text x="872" y="166" font-size="12" fill="#80686c" text-anchor="end">26.4%</text>
+<text x="470" y="194" font-size="13" fill="#d5c8ca">CSS</text>
+<rect x="620" y="183" width="14" height="12" rx="2" fill="#d62839"/><rect x="637" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="654" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="671" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="688" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="705" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="722" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="739" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="756" y="183" width="14" height="12" rx="2" fill="#2a1418"/><rect x="773" y="183" width="14" height="12" rx="2" fill="#2a1418"/>
+<text x="872" y="194" font-size="12" fill="#80686c" text-anchor="end">8.9%</text>
+<text x="470" y="222" font-size="13" fill="#d5c8ca">JavaScript</text>
+<rect x="620" y="211" width="14" height="12" rx="2" fill="#d62839"/><rect x="637" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="654" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="671" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="688" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="705" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="722" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="739" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="756" y="211" width="14" height="12" rx="2" fill="#2a1418"/><rect x="773" y="211" width="14" height="12" rx="2" fill="#2a1418"/>
+<text x="872" y="222" font-size="12" fill="#80686c" text-anchor="end">8.0%</text>
+<text x="470" y="250" font-size="13" fill="#d5c8ca">Shell</text>
+<rect x="620" y="239" width="14" height="12" rx="2" fill="#d62839"/><rect x="637" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="654" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="671" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="688" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="705" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="722" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="739" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="756" y="239" width="14" height="12" rx="2" fill="#2a1418"/><rect x="773" y="239" width="14" height="12" rx="2" fill="#2a1418"/>
+<text x="872" y="250" font-size="12" fill="#80686c" text-anchor="end">4.7%</text>
+<text x="44" y="282" font-size="11" fill="#80686c">last sync: 2026-11-16 · generated from the GitHub API</text>
 <rect x="0" y="0" width="900" height="300" rx="10" fill="url(#scan)"/>
-<rect x="0.75" y="0.75" width="898.5" height="298.5" rx="10" fill="none" stroke="#00ff9c" stroke-opacity="0.22" stroke-width="1.5"/>
+<rect x="0.75" y="0.75" width="898.5" height="298.5" rx="10" fill="none" stroke="#d62839" stroke-opacity="0.22" stroke-width="1.5"/>
 </g></svg>

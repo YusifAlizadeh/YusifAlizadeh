@@ -8,57 +8,57 @@
   </defs>
 
   <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
-    <rect x="0" y="0" width="900" height="292" rx="10" fill="#0a0c10"/>
+    <rect x="0" y="0" width="900" height="292" rx="10" fill="#0a0608"/>
 
-    <text x="28" y="40" font-size="15" fill="#00ff9c">┌──(root㉿alizadah)-[~]</text>
-    <text x="28" y="64" font-size="15"><tspan fill="#00ff9c">└─$ </tspan><tspan fill="#c9d1d9">cat ./arsenal.txt</tspan></text>
+    <text x="28" y="40" font-size="15" fill="#d62839">┌──(root㉿alizadah)-[~]</text>
+    <text x="28" y="64" font-size="15"><tspan fill="#d62839">└─$ </tspan><tspan fill="#d5c8ca">cat ./arsenal.txt</tspan></text>
 
     <!-- row template: label · 10-segment meter · tooling -->
     <g font-size="13">
       <!-- 1 · recon & osint — 9/10 -->
-      <text x="44" y="108" fill="#c9d1d9">recon &amp; osint</text>
+      <text x="44" y="108" fill="#d5c8ca">recon &amp; osint</text>
       <g transform="translate(246,97)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="108" fill="#6e7681">amass · subfinder · nmap · spiderfoot · maltego</text>
+      <text x="440" y="108" fill="#80686c">amass · subfinder · nmap · spiderfoot · maltego</text>
 
       <!-- 2 · web & api exploitation — 8/10 -->
-      <text x="44" y="140" fill="#c9d1d9">web &amp; api exploitation</text>
+      <text x="44" y="140" fill="#d5c8ca">web &amp; api exploitation</text>
       <g transform="translate(246,129)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="140" fill="#6e7681">burp suite · ffuf · sqlmap · nuclei</text>
+      <text x="440" y="140" fill="#80686c">burp suite · ffuf · sqlmap · nuclei</text>
 
       <!-- 3 · active directory — 7/10 -->
-      <text x="44" y="172" fill="#c9d1d9">active directory</text>
+      <text x="44" y="172" fill="#d5c8ca">active directory</text>
       <g transform="translate(246,161)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="172" fill="#6e7681">bloodhound · impacket · netexec · kerbrute</text>
+      <text x="440" y="172" fill="#80686c">bloodhound · impacket · netexec · kerbrute</text>
 
       <!-- 4 · reversing & mobile — 6/10 -->
-      <text x="44" y="204" fill="#c9d1d9">reversing &amp; mobile</text>
+      <text x="44" y="204" fill="#d5c8ca">reversing &amp; mobile</text>
       <g transform="translate(246,193)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="204" fill="#6e7681">ghidra · radare2 · jadx · frida</text>
+      <text x="440" y="204" fill="#80686c">ghidra · radare2 · jadx · frida</text>
 
       <!-- 5 · attack-defense ctf — 8/10 -->
-      <text x="44" y="236" fill="#c9d1d9">attack-defense ctf</text>
+      <text x="44" y="236" fill="#d5c8ca">attack-defense ctf</text>
       <g transform="translate(246,225)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#1b2129"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#2a1418"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="236" fill="#6e7681">pwntools · tcpdump · custom tooling</text>
+      <text x="440" y="236" fill="#80686c">pwntools · tcpdump · custom tooling</text>
 
       <!-- 6 · scripting & automation — 9/10 -->
-      <text x="44" y="268" fill="#c9d1d9">scripting &amp; automation</text>
+      <text x="44" y="268" fill="#d5c8ca">scripting &amp; automation</text>
       <g transform="translate(246,257)">
-        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#00ff9c"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#1b2129"/>
+        <rect x="0"   y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="17"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="34"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="51"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="68"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="85"  y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="102" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="119" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="136" y="0" width="14" height="12" rx="2" fill="#d62839"/><rect x="153" y="0" width="14" height="12" rx="2" fill="#2a1418"/>
       </g>
-      <text x="440" y="268" fill="#6e7681">python · bash · docker</text>
+      <text x="440" y="268" fill="#80686c">python · bash · docker</text>
     </g>
 
     <rect x="0" y="0" width="900" height="292" rx="10" fill="url(#scan)"/>
-    <rect x="0.75" y="0.75" width="898.5" height="290.5" rx="10" fill="none" stroke="#00ff9c" stroke-opacity="0.22" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="898.5" height="290.5" rx="10" fill="none" stroke="#d62839" stroke-opacity="0.22" stroke-width="1.5"/>
   </g>
 </svg>

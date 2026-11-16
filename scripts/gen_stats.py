@@ -17,7 +17,7 @@ LOGIN = os.environ.get("GH_LOGIN", "YusifAlizadeh")
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets", "stats.svg")
 
 BG, PANEL, ACCENT, ALERT, AMBER, TEXT, DIM, EMPTY = (
-    "#0a0c10", "#0d1117", "#00ff9c", "#ff2a4d", "#ffb000", "#c9d1d9", "#6e7681", "#1b2129",
+    "#0a0608", "#150b0e", "#d62839", "#ff4553", "#e09f3e", "#d5c8ca", "#80686c", "#2a1418",
 )
 
 QUERY = """

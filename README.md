@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PENETRATION_TESTING-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c">
-  <img src="https://img.shields.io/badge/RED_TEAM-0d1117?style=flat-square&labelColor=0d1117&color=ff2a4d">
-  <img src="https://img.shields.io/badge/OSINT-0d1117?style=flat-square&labelColor=0d1117&color=ffb000">
-  <img src="https://img.shields.io/badge/CTF-0d1117?style=flat-square&labelColor=0d1117&color=6e7681">
+  <img src="https://img.shields.io/badge/PENETRATION_TESTING-00ff9c?style=flat-square">
+  <img src="https://img.shields.io/badge/RED_TEAM-ff2a4d?style=flat-square">
+  <img src="https://img.shields.io/badge/OSINT-ffb000?style=flat-square">
+  <img src="https://img.shields.io/badge/CTF-6e7681?style=flat-square">
 </p>
 
 ---
@@ -44,11 +44,11 @@ farming flags from everyone else's.
   <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=ff2a4d">
   <img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff9c">
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&color=0d1117&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&labelColor=0d1117&color=0d1117">
-  <img src="https://img.shields.io/badge/Impacket-0d1117?style=flat-square&labelColor=0d1117&color=0d1117">
-  <img src="https://img.shields.io/badge/Ghidra-0d1117?style=flat-square&labelColor=0d1117&color=0d1117">
-  <img src="https://img.shields.io/badge/Maltego-0d1117?style=flat-square&labelColor=0d1117&color=0d1117">
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/BloodHound-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Impacket-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Ghidra-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Maltego-0d1117?style=flat-square">
   <br>
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffb000">
   <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff9c">
